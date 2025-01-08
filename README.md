@@ -69,12 +69,13 @@ src/
 # POST 
 /tasks/
 
-{		"user_id":1,
+{	
+    "user_id":1,
     "title": "Comprar leite",
     "description": "Comprar leite no supermercado",
     "category_id": 1
- 		"data":"2025-01-08",
- 		"status": "completed"
+ 	"data":"2025-01-08",
+ 	"status": "completed"
 }
 
 # PUT 
